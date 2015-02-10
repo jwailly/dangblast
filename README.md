@@ -1,4 +1,4 @@
-dangblast
+Folio Jessica
 =========
 
-Test the dangblast site template
+Test the Folio site template
